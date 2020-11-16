@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891529811695",
+    "firebase_url": "https://biochemistryvibhag.firebaseio.com",
+    "project_id": "biochemistryvibhag",
+    "storage_bucket": "biochemistryvibhag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891529811695:android:283a19342bcf8909d16d1a",
+        "android_client_info": {
+          "package_name": "com.biochemistryvibhag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891529811695-76m4aothfikilcps03ctsb15ndjpka8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biochemistryvibhag",
+            "certificate_hash": "163729609c633e451a5eefa3ed55a578626ac718"
+          }
+        },
+        {
+          "client_id": "891529811695-kql671mec3augl5n3qsd31hcivqsickf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWSkEnPcvgg-x6xyU3f_Y_C_lRpykpjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891529811695-kql671mec3augl5n3qsd31hcivqsickf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

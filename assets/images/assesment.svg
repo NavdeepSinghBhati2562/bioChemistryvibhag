@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" baseProfile="tiny" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="400px" height="400px" viewBox="0 0 400 400" xml:space="preserve">
+<g id="BACKGROUND" display="none">
+</g>
+<g id="OBJECTS">
+	<g>
+		<path fill="#224054" d="M371.042,53.213H28.958c-10.746,0-19.538,5.175-19.538,11.5v318.89c0,6.325,8.792,11.5,19.538,11.5
+			h342.085c10.746,0,19.538-5.175,19.538-11.5V64.714C390.58,58.389,381.788,53.213,371.042,53.213z"/>
+		<path fill="#224054"  a:adobe-blending-mode="multiply" d="M351.831,82.488H48.169c-10.746,0-19.538,4.949-19.538,10.998v277.182
+			c0,6.049,8.792,10.998,19.538,10.998h303.662c10.746,0,19.538-4.949,19.538-10.998V93.486
+			C371.369,87.437,362.577,82.488,351.831,82.488z"/>
+		<path fill="#F9F9F9" d="M341.326,85.218H58.674c-10.746,0-19.538,4.791-19.538,10.646v260.324c0,5.855,8.792,10.646,19.538,10.646
+			h282.653c10.746,0,19.538-4.791,19.538-10.646V95.864C360.864,90.008,352.072,85.218,341.326,85.218z"/>
+		
+			<line fill="none" stroke="#224054" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="81.153" y1="164.24" x2="249.47" y2="164.24"/>
+		<path fill="none" stroke="#224054" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M302.817,201.807h-11.93c-10.746,0-19.538-8.792-19.538-19.538v-11.93c0-10.746,8.792-19.538,19.538-19.538h11.93
+			c10.746,0,19.538,8.792,19.538,19.538v11.93C322.355,193.015,313.563,201.807,302.817,201.807z"/>
+		
+			<line fill="none" stroke="#224054" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="81.153" y1="279.672" x2="249.47" y2="279.672"/>
+		<path fill="none" stroke="#224054" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M302.817,317.239h-11.93c-10.746,0-19.538-8.792-19.538-19.538v-11.93c0-10.746,8.792-19.538,19.538-19.538h11.93
+			c10.746,0,19.538,8.792,19.538,19.538v11.93C322.355,308.447,313.563,317.239,302.817,317.239z"/>
+		
+			<line fill="none" stroke="#224054" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="81.153" y1="184.144" x2="249.47" y2="184.144"/>
+		
+			<line fill="none" stroke="#224054" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="81.153" y1="299.576" x2="249.47" y2="299.576"/>
+		<g>
+			<path fill="#F66A8D" d="M277.011,182.802c2.946,3.615,7.553,8.623,12.332,9.73c7.014,1.624,11.596-2.033,16.315-6.824
+				c9.213-9.354,14.458-21.945,19.263-33.925c3.52-8.777-10.658-12.552-14.13-3.895c-2.723,6.789-5.735,13.369-9.535,19.629
+				c-2.131,3.511-4.734,6.586-7.607,9.503c0.132,1.866-0.541,1.851-2.019-0.046c-1.624-1.303-2.951-2.928-4.258-4.532
+				C281.399,165.111,271.096,175.544,277.011,182.802L277.011,182.802z"/>
+		</g>
+		<g>
+			
+				<image  a:adobe-blending-mode="multiply" width="150" height="96" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABgCAYAAAD/yovmAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZJJREFUeNrs3cFNA0EMhlGM6IfO
+OKSQHOgsHXFFQhBtMn+Ix++rALFv7ckm0tbLpn2cTpcOf+fn+fy+4/+/QAINrI1B7QasgAIMrEGg
+ugMrqOAaDWs6qm64Ciq4Er26TBo5sUyrnlOroILLKpRVaFrNnlpvLoabxCpseofv+guGdrBSd/h/
+XuBpuBzem/esaxYsgSWwBJbzyOSzEFiNL/DE51gjH5B6qm9iCSwJLIVb+usGZ5f+rfrqqQBSAlsB
+pQSwAkoJYAWVErgKKiVwFVRK4CqolMBVUCmBq6BSApevdBSpTCslppaJpdzEMq20emqZWIoEljKr
+0BqUiSWwBJYElsASWBJYAktgSWAJLIElgSWwBJYElsASWBJYAktgSWAJLIElgSWwBJYElsASWBJY
+AktgSWAJLIElgaWnyAsEtDwvEJBVKLAkr5XT+vOViaX8xDK1tGpa/YAFl1agsgr1mFVoamnFtPoV
+Fly6B9WfsODSraiuwgJMR0EdggWXjqA6BAsymO7+VAiZbsH0vS8BBgCZlqUuH1M0rwAAAABJRU5E
+rkJggg==" transform="matrix(1 0 0 1 125 9)">
+			</image>
+			<path fill="#E8EEEF" d="M254.893,31.088h-17.406v-6.655c0-10.746-8.792-19.538-19.538-19.538h-35.898
+				c-10.746,0-19.538,8.792-19.538,19.538v6.655h-17.406c-10.746,0-19.538,8.792-19.538,19.538v29.29
+				c0,10.746,8.792,19.538,19.538,19.538h109.785c10.746,0,19.538-8.792,19.538-19.538v-29.29
+				C274.43,39.88,265.638,31.088,254.893,31.088z M211.759,27.038h-23.518c-2.887,0-5.25-2.362-5.25-5.25
+				c0-2.887,2.362-5.25,5.25-5.25h23.518c2.887,0,5.249,2.362,5.249,5.25C217.009,24.676,214.646,27.038,211.759,27.038z"/>
+			<g>
+				<path fill="#FFFFFF" d="M180.014,8.194c-5.629,2.263-9.463,7.899-8.682,14.075c0.39,3.081,5.279,3.119,4.884,0
+					c-0.487-3.85,1.348-7.858,5.096-9.365C184.197,11.745,182.939,7.018,180.014,8.194L180.014,8.194z"/>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M135.784,76.319c-0.512,4.342,0.179,8.523,3.489,11.608c4.027,3.754,10.275,3.992,15.446,4.162
+					c3.151,0.104,3.141-4.781,0-4.884c-3.858-0.127-7.688-0.289-11.154-2.166c-3.248-1.759-3.275-5.509-2.897-8.72
+					C141.037,73.195,136.149,73.23,135.784,76.319L135.784,76.319z"/>
+			</g>
+			<g>
+				<path fill="#FFFFFF" d="M138.36,71.29c3.15,0,3.15-4.884,0-4.884S135.21,71.29,138.36,71.29L138.36,71.29z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="DESIGNED_BY_FREEPIK" display="none">
+</g>
+</svg>
